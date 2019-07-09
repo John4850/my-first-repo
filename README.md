@@ -1,1 +1,1 @@
-# my-first-repo
+hello i am a git command
